@@ -3,6 +3,10 @@ stedwards_books
 
 A script to scrape the St. Edwards web page to find as much textbook information with minimal effort.
 
+Requirements
+============
+- Python 3.3
+
 Notes
 =====
 - This isn't the prettiest thing, it was just a fun thing to do on a boring Sunday night while I was waiting for Breaking Bad.
